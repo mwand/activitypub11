@@ -1,0 +1,11 @@
+{
+	"subject": "acct:mitchell@mwand.github.io/activitypub11",
+
+	"links": [
+		{
+			"rel": "self",
+			"type": "application/activity+json",
+			"href": "https://mwand.github.io/activitypub11/actor1.json"
+        }
+	]
+}
